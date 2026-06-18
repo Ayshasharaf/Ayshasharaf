@@ -1,18 +1,60 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ayshasharaf/Ayshasharaf/main/codingcat.jpg" width="200" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Aysha" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aysha</h1>
+## 🧠 About Me
 
-## 📊 GitHub Stats
+```
+ /\_/\  
+( •_• )  "thinking in systems..."
+ > 🧩 <
+```
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayshasharaf&theme=tokyonight&hide_border=true" />
-</p>
+I am a **Full Stack Developer** focused on transitioning into **Backend Engineering**, with a strong interest in scalable systems and intelligent applications.
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayshasharaf&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+I enjoy:
+- Debugging complex problems and understanding root causes 🐛
+- Designing backend systems that are clean, scalable, and reliable ⚙️
+- Learning how real-world systems are built at scale 🏗️
 
 ---
 
+## 🚀 What I'm Currently Working On
+
+```
+ /\_/\  
+( •.• )  "deep work in progress..."
+ > ☁️ <
+```
+
+- 🏗️ System Design fundamentals (scalability, caching, queues, APIs)
+- 🔍 RAG Systems  
+  → Hybrid Search (BM25 + Vector Search)  
+  → Reranking strategies for better retrieval quality
+- ☁️ AWS (cloud infrastructure, deployment, architecture basics)
+- ⚙️ Backend experimentation with real-world system patterns
+
+---
+
+## 💡 Technical Interests
+
+- Backend Development (APIs, architecture, performance)
+- Distributed Systems & Scalability
+- Search & Retrieval Systems (RAG, embeddings, ranking)
+- Cloud Computing (AWS)
+- Data-driven backend systems
+
+
+```
+ /\_/\  
+( =^.^= )  git commit -m "improving every day"
+ > 🚀 <    git push origin consistency
+```
+
+> I want to build systems that don’t just work , they scale, recover, and stay reliable under pressure.
+
+---
+
+<p align="center">
+  <b> Build. Debug. Learn. Scale. Repeat. hehehe.</b>
+</p>
